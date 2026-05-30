@@ -166,25 +166,35 @@ mongodb://localhost:27017
 
 ### Docker Containers Running
 
-![Docker Containers](screenshots/docker-ps.png)
+<img width="2868" height="384" alt="image" src="https://github.com/user-attachments/assets/dd487e2e-ee19-4381-992f-4561e3fed87b" />
+
+
 
 ---
 
 ### Frontend Application
 
-![Frontend API](screenshots/api.png)
+<img width="2846" height="1070" alt="image" src="https://github.com/user-attachments/assets/d77cbdf9-be42-4664-afa6-ef29c5d9c3fe" />
+
 
 ---
 
 ### Backend API Response
 
-![Backend API](screenshots/api.png)
+<img width="1348" height="646" alt="image" src="https://github.com/user-attachments/assets/8c77be0c-4639-4141-a757-baefe423a8af" />
+
 
 ---
 
 ### Docker Compose Logs
 
-![Logs](screenshots/logs.png)
+<img width="2880" height="1704" alt="image" src="https://github.com/user-attachments/assets/54c05f22-7a1c-42ab-8bed-2ddec3842393" />
+
+<img width="2852" height="162" alt="image" src="https://github.com/user-attachments/assets/e02c78b7-d0f6-4135-9c6f-907b8ac1f5be" />
+
+<img width="2880" height="1704" alt="image" src="https://github.com/user-attachments/assets/11793e50-cdfa-4299-876d-ed8b1aa000dd" />
+
+<img width="2880" height="1704" alt="image" src="https://github.com/user-attachments/assets/64b799ed-1608-46a4-976f-f5f50c377987" />
 
 ---
 
